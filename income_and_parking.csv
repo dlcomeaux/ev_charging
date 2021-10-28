@@ -1,0 +1,17 @@
+"","combo_parking","income_c","n","pct"
+"1","No vehicle","low",183083.683,0.484934168200053
+"2","Off-street only","low",78872.5802,0.208909982835985
+"3","On- and off-street","low",14015.5827,0.0371231058229452
+"4","On-street only","low",101571.5301,0.269032743141016
+"5","No vehicle","middle-low",41780.4842,0.210013597695065
+"6","Off-street only","middle-low",67340.3378,0.33849264512303
+"7","On- and off-street","middle-low",14612.4326,0.0734507892898629
+"8","On-street only","middle-low",75208.5504,0.378042967892043
+"9","No vehicle","middle-high",36062.5701,0.160229613466075
+"10","Off-street only","middle-high",101150.5105,0.449421856356023
+"11","On- and off-street","middle-high",22378.6527,0.0994305969338703
+"12","On-street only","middle-high",65476.3382,0.290917933244032
+"13","No vehicle","high",30031.1249,0.0963828012804235
+"14","Off-street only","high",168531.1619,0.540889012351535
+"15","On- and off-street","high",54580.9712,0.175173821106585
+"16","On-street only","high",58438.5232,0.187554365261456
